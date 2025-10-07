@@ -1,7 +1,11 @@
 # ProtoVault-Breach-OffSec
 
 # Chuẩn bị
+
+
 PASS: BloodBreathSoulFire
+
+
 Đề bài cho ta 1 fize zip, giải nén sẽ được các folder trên, bài đang bảo rằng manh mối đầu tiên là email, hãy xem nó thử
 <img width="663" height="90" alt="image" src="https://github.com/user-attachments/assets/53335be6-f605-4e71-89bf-b0b69a4fc13f" />
 
